@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Dice Game</string>
+    <string name="enter_web_site">Enter web-site</string>
+    <string name="enter">Search</string>
+    <string name="roll_1">Roll 1</string>
+    <string name="roll_2">Roll 2</string>
+    <string name="_0">0</string>
+    <string name="gamer_2">2</string>
+    <string name="gamer_1">1</string>
+    <string name="turn">Turn:\n</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="winner">Winner: 1</string>
+    <string name="winner2">Winner: 2</string>
+    <string name="ok">Ok</string>
+    <string name="you_win">You Win!</string>
+    <string name="max">Maximum limit up to 300!</string>
+</resources>
